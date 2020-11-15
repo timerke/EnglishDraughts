@@ -1,0 +1,2 @@
+C:\Users\timer\source\repos\EnglishDraughts\Debug\EnglishDraughts.exe
+C:\Users\timer\source\repos\EnglishDraughts\Debug\EnglishDraughts.pdb
